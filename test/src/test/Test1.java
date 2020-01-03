@@ -5,5 +5,6 @@ public class Test1 {
 		String a = "abc";
 		int i = 0;
 		System.out.println(i);
+		String b = "abc";
 	}
 }
